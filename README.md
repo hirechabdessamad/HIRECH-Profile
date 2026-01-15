@@ -12,7 +12,7 @@ i'm currently working on Data Project E-commerce sales <br>i'm looking to collab
 ![](https://github-readme-stats.vercel.app/api?username=hirechabdessamad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hirechabdessamad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hirechabdessamad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![EDA Plot](images/eda_plot.png)
+![EDA Plot](images/e3-9-1024x716.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
