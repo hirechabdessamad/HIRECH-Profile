@@ -15,6 +15,11 @@ i'm currently working on Data Project E-commerce sales <br>i'm looking to collab
 ### 📊 Résultat de l’analyse
 ![Visualisation des données](images/3-9-1024x716.png)
 
+
+Pour mettre un lien vers ton vrai code :
+[Voir le script complet](src/analysis.py)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
