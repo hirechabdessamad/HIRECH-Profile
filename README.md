@@ -14,6 +14,7 @@ i'm currently working on Data Project E-commerce sales <br>i'm looking to collab
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hirechabdessamad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### 📊 Résultat de l’analyse
 ![Visualisation des données](images/3-9-1024x716.png)
+![Visualisation des données](images/top_products.png)
 
 
 Pour mettre un lien vers ton vrai code :
