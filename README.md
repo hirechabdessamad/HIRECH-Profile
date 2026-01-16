@@ -18,7 +18,7 @@ i'm currently working on Data Project E-commerce sales <br>i'm looking to collab
 
 
 Pour mettre un lien vers ton vrai code :
-[Voir le script complet](src/analysis.py)
+[Voir le script complet](src/02_EDA_Data_Visualization.ipynb)
 
 
 ### ✍️ Random Dev Quote
