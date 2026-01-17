@@ -45,6 +45,6 @@ Petite précisions les visues Power BI sont pas liés au notebook c'est des proj
 
 [📥 Télécharger mon CV en PDF](images/CV.pdf)
 
-[![CV Preview](images/CV_preview.png)](images/CV_IMG.pdf)
+[![CV Preview](images/CV_IMG.jpg)](images/CV_IMG.jpg)
 
 <!-- Fièrement créé avec GPRM ( https://gprm.itsvg.in ) -->
