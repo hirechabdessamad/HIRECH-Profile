@@ -5,7 +5,7 @@ Je cherche à collaborer sur des projets en Data et en IA.
 Je recherche de l’aide sur le Machine Learning et AWS.  
 J’apprends actuellement le MLOps.  
 N’hésite pas à me poser des questions sur mon profil.  
-Fun fact : mon code est plus stable que mon sommeil..
+Fun fact : mon code est plus stable que mon sommeil..  
 Petite précisions les visues Power BI sont pas liés au notebook c'est des projets à part j'ai choisis Mes 4 projets phares en Data & IA
 
 ## 🌐 Réseaux sociaux :
