@@ -21,7 +21,6 @@ Petite précisions les visues Power BI sont pas liés au notebook c'est des proj
 
 ### 📊 Visualisation Power BI / Tableau 
 ![Visualisation des données](images/3-9-1024x716.png)  
-![Visualisation des données](images/top_products.png)
 
 ### 📊 Les Notebooks / Projets
 
