@@ -41,4 +41,10 @@ Petite précisions les visues Power BI sont pas liés au notebook c'est des proj
 ### ✍️ Citation aléatoire de développeur
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 📄 Mon CV
+
+[📥 Télécharger mon CV en PDF](images/CV.pdf)
+
+[![CV Preview](images/CV_preview.png)](images/CV_IMG.pdf)
+
 <!-- Fièrement créé avec GPRM ( https://gprm.itsvg.in ) -->
