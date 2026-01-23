@@ -16,20 +16,10 @@ Petite précisions les visues Power BI sont pas liés au notebook c'est des proj
 
 
 ### 📊 Visualisation Power BI / Tableau 
-![Visualisation des données](images/3-9-1024x716.png)  
 
 ### 📊 Les Notebooks / Projets
 
 - **Ecommerce AI**  
-  [Voir le projet complet](src/02_EDA_Data_Visualization.ipynb)
-
-- **NLP Chatbot**  
-  [Voir le projet complet](src/02_EDA_Data_Visualization.ipynb)
-
-- **Recommender System**  
-  [Voir le projet complet](src/02_EDA_Data_Visualization.ipynb)
-
-- **Computer Vision App**  
   [Voir le projet complet](src/02_EDA_Data_Visualization.ipynb)
 
 
